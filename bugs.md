@@ -40,10 +40,3 @@ Zobrazí sa iba zelená farba správnej odpovede.
 Červené zvýraznenie pôvodnej odpovede ostáva viditeľné.
 
 ---
-
-**Actual result:**  
-CSS chýba (v konzole sa zobrazujú 404 chyby).
-
----
-
-> 📌 *Poznámka:* Tento dokument môžete doplniť o screenshoty uložené v priečinku `/screenshots` a pridať odkazy priamo k jednotlivým bugom.
