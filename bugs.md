@@ -1,4 +1,4 @@
-# 🐞 Bug Reporty – Mini Quiz
+# Bug Reporty – Mini Quiz
 Tento dokument obsahuje identifikované chyby v aplikácii **Mini Quiz**.  
 Každý bug obsahuje ID, názov, závažnosť, prioritu, prostredie, detailný popis, očakávaný a aktuálny výsledok.
 
