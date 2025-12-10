@@ -2,7 +2,8 @@
 This project is a simple mini-quiz web application built using HTML, CSS and JavaScript.
 The repository also includes test cases, bug reports and screenshots documenting the behavior of the application.
 
-All test cases are documented in TestCases.md.
+All test cases are documented in TestCases.md. 
+
 All identified bugs are recorded in bugs.md.
 
 **The repository contains:**
