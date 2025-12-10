@@ -5,7 +5,7 @@ The repository also includes test cases, bug reports and screenshots documenting
 All test cases are documented in TestCases.md.
 All identified bugs are recorded in bugs.md.
 
-The repository contains:
+**The repository contains:**
 -test case screenshots (TC01-TC03)
 -bug screenshots (BUG001_BUG002)
 -quiz preview image (QUIZ.png).
