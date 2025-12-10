@@ -6,8 +6,8 @@ All test cases are documented in TestCases.md.
 All identified bugs are recorded in bugs.md.
 
 **The repository contains:**
--test case screenshots (TC01-TC03)
--bug screenshots (BUG001_BUG002)
--quiz preview image (QUIZ.png).
+1. test case screenshots (TC01-TC03)
+2. bug screenshots (BUG001_BUG002)
+3. quiz preview image (QUIZ.png)
 
 These images help document the testing results and visual layout of the quiz.
